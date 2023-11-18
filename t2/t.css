@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+.consumidor {
+    display: flex;
+    justify-content: space-around;
+}
+.producto {
+    width: 250px;
+    padding: 13px;
+    margin: 16px;
+    border-radius: 7px;
+    border: 1px  #c0a9a9;
+    text-align: center;    
+    box-shadow: 0 0 6px rgba(165, 46, 46, 0.1);
+}
+.si {
+    margin: 12px 0;
+}
+.producto img {
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+    margin-bottom: 9px;
+}
